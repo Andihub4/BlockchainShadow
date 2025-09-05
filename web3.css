@@ -1,0 +1,20 @@
+
+.btn{
+  
+  background-color: rgb(230, 14, 107);
+  border-top-left-radius: 6px ;
+  border-top-right-radius: 6px ;
+  border-bottom-left-radius: 6px ;
+  border-bottom-right-radius: 6px ;
+  border-color: rgb(230, 14, 80);
+  height: 30px;
+  width: 70px;
+
+  
+  
+}
+.tabl{
+  
+  width: 340px;
+  background-color: white;
+}
